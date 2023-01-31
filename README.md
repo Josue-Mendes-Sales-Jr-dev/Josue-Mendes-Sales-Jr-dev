@@ -20,7 +20,7 @@
 <div align="center"> 
 <a href="https://github.com/Josue-Mendes-Sales-Jr-dev?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:josuemendes2309@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%32CD32?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/josue-mendes-311181207/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/josue-mendes-311181207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Main skills:
