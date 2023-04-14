@@ -14,7 +14,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Josue-Mendes-Sales-Jr-dev&show_icons=true&count_private=true&hide_border=true&title_color=ffF1ff&icon_color=003004text_color=c9d1d9&bg_color=040406" alt="Josue Mendes github stats" /> 
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Mendes-Sales-Jr-dev&layout=compact&hide_border=true&title_color=FF09F8text_color=091a4&bg_color=040406" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Mendes-Sales-Jr-dev&layout=compact&hide_border=true&title_color=FF09F8text_color=091a4&bg_color=040407" />
 </div>
 
 
