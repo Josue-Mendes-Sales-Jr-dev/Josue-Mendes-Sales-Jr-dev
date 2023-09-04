@@ -4,7 +4,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josue-Mendes-Sales-Jr-dev&bg00110&theme=dracula)](https://github.com/ashutosh0b010/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josue-Mendes-Sales-Jr-dev&bg=000000&theme=dracula)](https://github.com/ashutos000010/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Josue-Mendes-Sales-Jr-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
