@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Josue+Mendes;I'm+25+years+old;I'm+from+Brazil;i+am+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Josue-Mendes-Sales-Jr-dev&bg_color=3a3136&color=ffffff&line=d1d1d1&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Josue-Mendes-Sales-Jr-dev&bg00110&theme=dracula)](https://github.com/ashutosh0b010/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Josue-Mendes-Sales-Jr-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
